@@ -1,4 +1,4 @@
-# FinanciasPessoais.github.io
+# financiaspessoais
 
 # 💰 Gerenciador Financeiro Pessoal
 
