@@ -1,8 +1,6 @@
-# financiaspessoais
-
+# Link do projeto == https://marcelomachado01.github.io/financiaspessoais/
 # 💰 Gerenciador Financeiro Pessoal
 
-![Preview da Aplicação](link-para-imagem-opcional.png)
 
 Aplicação web para controle financeiro pessoal com interface intuitiva e armazenamento local.
 
