@@ -16,11 +16,6 @@ Aplicação web para controle financeiro pessoal com interface intuitiva e armaz
 - **Padrões**: Clean Code, Modularização
 - **Armazenamento**: localStorage
 
-## 🚀 Como Usar
-1. Clone o repositório
-2. Abra `index.html` no navegador
-3. Comece a registrar suas transações!
-
 ## 📌 Próximas Melhorias
 - [ ] Gráficos de análise mensal
 - [ ] Sistema de categorias
